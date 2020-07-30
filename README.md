@@ -11,7 +11,7 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 
 #### Lecciones
 [01 El lenguaje de programación Python](https://programacion-sig-2020.github.io/leccion-01-python-introduccion/)  
-[(diapositivas)](https://mfvargas.github.io/pres-python-geoespacial/)
+    - [(diapositivas)](https://mfvargas.github.io/pres-python-geoespacial/)
 
 #### Laboratorios
 
