@@ -1,4 +1,4 @@
-# TPB708 Programación de aplicaciones en Sistemas de Información Geográfica
+# TPB708 Programación de aplicaciones en sistemas de información geográfica
 
 ## Universidad Nacional - Universidad de Costa Rica
 ### Maestría Profesional en Sistemas de Información Geográfica y Teledetección
