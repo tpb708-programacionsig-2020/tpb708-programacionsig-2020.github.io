@@ -17,6 +17,9 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 
 #### Proyectos
 
+#### Otros
+* [Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeLtDEU2JsNRnbJFJ-_phEDQ)
+
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
 - [GitHub Pages](https://pages.github.com/)
