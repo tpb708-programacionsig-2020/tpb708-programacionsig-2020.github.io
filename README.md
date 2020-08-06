@@ -15,9 +15,8 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
     
 [02 La sintaxis Markdown](https://programacion-sig-2020.github.io/leccion-02-markdown/)
 
-#### Tareas programadas
-
-#### Proyectos
+#### Tareas
+[01 La sintaxis Markdown](https://programacion-sig-2020.github.io/tarea-01-markdown/)
 
 #### Recursos
 [Lista de recursos](https://programacion-sig-2020.github.io/recursos/)
