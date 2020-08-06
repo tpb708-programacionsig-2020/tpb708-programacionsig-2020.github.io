@@ -20,7 +20,7 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 #### Proyectos
 
 #### Recursos
-[Recursos](https://programacion-sig-2020.github.io/recursos/)
+[Lista de recursos](https://programacion-sig-2020.github.io/recursos/)
 
 #### Otros
 [Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeLtDEU2JsNRnbJFJ-_phEDQ)
