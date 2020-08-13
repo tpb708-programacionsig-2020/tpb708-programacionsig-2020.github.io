@@ -15,6 +15,8 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
     
 [02 La sintaxis Markdown](https://programacion-sig-2020.github.io/leccion-02-markdown/)
 
+[03 Python - tipos de datos, variables y expresiones ](https://programacion-sig-2020.github.io/leccion-03-python-tipos-variables-expresiones/)
+
 #### Tareas
 [01 La sintaxis Markdown](https://programacion-sig-2020.github.io/tarea-01-markdown/)
 
