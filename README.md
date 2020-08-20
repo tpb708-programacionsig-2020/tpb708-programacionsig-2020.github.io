@@ -7,7 +7,7 @@
 Este es un curso introductorio a la programación de aplicaciones de datos e información geoespaciales. Está enfocado en el desarrollo de aplicaciones de escritorio (i.e. que no se ejecutan en la Web) mediante el lenguaje *Python*. Al terminar el curso, el estudiante habrá aprendido conceptos básicos de programación de computadoras y será capaz de emplearlos en la elaboración de programas geoespaciales, ya sea independientes o que se ejecuten desde sistemas de información geográfica (SIG) de escritorio, tales como QGIS o ArcGIS.
 
 #### Programa
-[Programa del curso](https://github.com/programacion-sig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
+[Programa del curso](https://github.com/tpb708-programacionsig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
 
 #### Lecciones
 [01 El lenguaje de programación Python](https://tpb708-programacionsig-2020.github.io/leccion-01-python-introduccion/)  
