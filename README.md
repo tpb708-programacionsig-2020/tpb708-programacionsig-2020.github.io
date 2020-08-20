@@ -21,7 +21,7 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
 
 #### Recursos
-[Lista de recursos](https://programacion-sig-2020.github.io/recursos/)
+[Lista de recursos](https://tpb708-programacionsig-2020.github.io/recursos/)
 
 #### Otros
 [Videos de las lecciones](https://www.youtube.com/playlist?list=PL1gEgLSwAJeLtDEU2JsNRnbJFJ-_phEDQ)
