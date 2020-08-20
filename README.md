@@ -10,15 +10,15 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 [Programa del curso](https://github.com/programacion-sig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
 
 #### Lecciones
-[01 El lenguaje de programación Python](https://programacion-sig-2020.github.io/leccion-01-python-introduccion/)  
+[01 El lenguaje de programación Python](https://tpb708-programacionsig-2020.github.io/leccion-01-python-introduccion/)  
     - [Diapositivas](https://mfvargas.github.io/pres-python-geoespacial/)
     
-[02 La sintaxis Markdown](https://programacion-sig-2020.github.io/leccion-02-markdown/)
+[02 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/leccion-02-markdown/)
 
-[03 Python - tipos de datos, variables y expresiones ](https://programacion-sig-2020.github.io/leccion-03-python-tipos-variables-expresiones/)
+[03 Python - tipos de datos, variables y expresiones ](https://tpb708-programacionsig-2020.github.io/leccion-03-python-tipos-variables-expresiones/)
 
 #### Tareas
-[01 La sintaxis Markdown](https://programacion-sig-2020.github.io/tarea-01-markdown/)
+[01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
 
 #### Recursos
 [Lista de recursos](https://programacion-sig-2020.github.io/recursos/)
