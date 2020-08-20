@@ -11,11 +11,10 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 
 #### Lecciones
 [01 El lenguaje de programación Python](https://tpb708-programacionsig-2020.github.io/leccion-01-python-introduccion/)  
-    - [Diapositivas](https://mfvargas.github.io/pres-python-geoespacial/)
-    
+    - [Diapositivas](https://mfvargas.github.io/pres-python-geoespacial/)    
 [02 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/leccion-02-markdown/)
-
 [03 Python - tipos de datos, variables y expresiones ](https://tpb708-programacionsig-2020.github.io/leccion-03-python-tipos-variables-expresiones/)
+[04 Python - condicionales y excepciones](https://tpb708-programacionsig-2020.github.io/leccion-04-python-condicionales-excepciones/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
