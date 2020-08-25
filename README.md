@@ -17,6 +17,8 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 [03 Python - tipos de datos, variables y expresiones ](https://tpb708-programacionsig-2020.github.io/leccion-03-python-tipos-variables-expresiones/)
 \
 [04 Python - condicionales y excepciones](https://tpb708-programacionsig-2020.github.io/leccion-04-python-condicionales-excepciones/)
+\
+[05 Python - ciclos y funciones](https://tpb708-programacionsig-2020.github.io/leccion-05-python-ciclos-funciones/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
