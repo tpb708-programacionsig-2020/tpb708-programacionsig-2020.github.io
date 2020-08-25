@@ -22,6 +22,7 @@ Este es un curso introductorio a la programación de aplicaciones de datos e inf
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
+\
 [02 Python - tipos de datos, variables, condicionales, ciclos, funciones](https://tpb708-programacionsig-2020.github.io/tarea-02-python-funciones/)
 
 #### Recursos
