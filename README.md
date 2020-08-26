@@ -1,7 +1,7 @@
 #### Descripción del curso
 Este es un curso introductorio a la programación de aplicaciones geoespaciales, mediante el lenguaje de programación Python. Al terminar el curso, el estudiante habrá aprendido conceptos básicos de programación de computadoras y será capaz de emplearlos en la elaboración de programas que manejen datos e información geoespaciales.
 
-El curso forma parte de la Maestría en Sistemas de Información Geográfica y Teledetección de la Universidad Nacional y la Universidad de Costa Rica.
+El curso forma parte de la [Maestría en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte) de la Universidad Nacional y la Universidad de Costa Rica.
 
 #### Programa
 [Programa del curso](https://github.com/tpb708-programacionsig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
