@@ -25,6 +25,9 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales,
 \
 [02 Python - tipos de datos, variables, condicionales, ciclos, funciones](https://tpb708-programacionsig-2020.github.io/tarea-02-python-funciones/)
 
+#### Tutoriales
+[Interfaz de línea de comandos del sistema operativo]()
+
 #### Recursos
 [Lista de recursos](https://tpb708-programacionsig-2020.github.io/recursos/)
 
