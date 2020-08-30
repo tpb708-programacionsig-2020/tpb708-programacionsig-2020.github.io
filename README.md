@@ -6,7 +6,7 @@ El curso forma parte de la [Maestría en Sistemas de Información Geográfica y 
 Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de este curso están disponibles en [https://github.com/tpb708-programacionsig-2020](https://github.com/tpb708-programacionsig-2020).
 
 #### Programa
-[Programa del curso](https://github.com/tpb708-programacionsig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
+[Programa del curso](https://github.com/tpb708-programacionsig-2020/programa-curso/blob/master/Programa%20del%20curso%20-%20TPB708%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica.pdf)
 
 #### Lecciones
 [01 El lenguaje de programación Python](https://tpb708-programacionsig-2020.github.io/leccion-01-python-introduccion/)  
