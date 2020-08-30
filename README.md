@@ -3,7 +3,7 @@ Este es un curso introductorio a la programación de aplicaciones geoespaciales,
 
 El curso forma parte de la [Maestría en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte) de la Universidad Nacional y la Universidad de Costa Rica.
 
-Las repositorios GitHub que forman parte de este curso están disponibles en [https://github.com/tpb708-programacionsig-2020](https://github.com/tpb708-programacionsig-2020).
+Las repositorios GitHub que forman parte del sitio web de este curso están disponibles en [https://github.com/tpb708-programacionsig-2020](https://github.com/tpb708-programacionsig-2020).
 
 #### Programa
 [Programa del curso](https://github.com/tpb708-programacionsig-2020/programa-curso/blob/master/TPB708%20-%20Programaci%C3%B3n%20de%20aplicaciones%20en%20sistemas%20de%20informaci%C3%B3n%20geogr%C3%A1fica%20-%20Programa%20del%20curso%20-%202020ii.pdf)
