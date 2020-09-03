@@ -18,6 +18,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [04 Python - condicionales y excepciones](https://tpb708-programacionsig-2020.github.io/leccion-04-python-condicionales-excepciones/)
 \
 [05 Python - ciclos y funciones](https://tpb708-programacionsig-2020.github.io/leccion-05-python-ciclos-funciones/)
+\
+[06 Python - programación orientada a objetos y colecciones](https://tpb708-programacionsig-2020.github.io/leccion-06-python-orientacion-objetos-colecciones/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
