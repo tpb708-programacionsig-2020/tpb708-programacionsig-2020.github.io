@@ -20,6 +20,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [05 Python - ciclos y funciones](https://tpb708-programacionsig-2020.github.io/leccion-05-python-ciclos-funciones/)
 \
 [06 Python - programación orientada a objetos y colecciones](https://tpb708-programacionsig-2020.github.io/leccion-06-python-orientacion-objetos-colecciones/)
+\
+[07 El sistema Git para control de versiones](https://tpb708-programacionsig-2020.github.io/leccion-07-git/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
