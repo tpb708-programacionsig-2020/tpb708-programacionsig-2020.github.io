@@ -24,6 +24,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [07 El sistema Git para control de versiones](https://tpb708-programacionsig-2020.github.io/leccion-07-git/)
 \
 [08 Python - manejo de archivos](https://tpb708-programacionsig-2020.github.io/leccion-08-python-archivos/)
+\
+[09 El sistema Conda para administración de paquetes; la biblioteca GDAL para lectura y escritura de datos geoespaciales](https://tpb708-programacionsig-2020.github.io/leccion-09-conda-gdal/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
