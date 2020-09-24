@@ -33,6 +33,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
 \
 [02 Python - tipos de datos, variables, condicionales, ciclos, funciones](https://tpb708-programacionsig-2020.github.io/tarea-02-python-funciones/)
+\
+[03 GDAL - utilitarios de línea de comandos](https://tpb708-programacionsig-2020.github.io/tarea-03-gdal-comandos/)
 
 #### Tutoriales
 [Interfaz de línea de comandos del sistema operativo](https://tpb708-programacionsig-2020.github.io/tutorial-linea-comandos-sistema-operativo/)
