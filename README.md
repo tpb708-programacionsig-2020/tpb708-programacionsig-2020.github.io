@@ -28,6 +28,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [09 Conda, GDAL](https://tpb708-programacionsig-2020.github.io/leccion-09-conda-gdal/)  
     - [El sistema Conda para administración de paquetes](https://tpb708-programacionsig-2020.github.io/leccion-09-conda-gdal/conda)  
     - [La biblioteca GDAL para lectura y escritura de datos geoespaciales](https://tpb708-programacionsig-2020.github.io/leccion-09-conda-gdal/gdal)
+\
+[10 Folium](https://tpb708-programacionsig-2020.github.io/leccion-10-folium/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
