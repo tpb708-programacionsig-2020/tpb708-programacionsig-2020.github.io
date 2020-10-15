@@ -31,7 +31,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 \
 [10 Folium](https://tpb708-programacionsig-2020.github.io/leccion-10-folium/)
 \
-[11 Fiona y Shapely](https://tpb708-programacionsig-2020.github.io/leccion-10-fiona-shapely/)
+[11 Fiona y Shapely](https://tpb708-programacionsig-2020.github.io/leccion-11-fiona-shapely/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
