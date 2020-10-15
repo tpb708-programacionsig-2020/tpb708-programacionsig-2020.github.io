@@ -30,6 +30,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
     - [La biblioteca GDAL para lectura y escritura de datos geoespaciales](https://tpb708-programacionsig-2020.github.io/leccion-09-conda-gdal/gdal)
 \
 [10 Folium](https://tpb708-programacionsig-2020.github.io/leccion-10-folium/)
+\
+[11 Folium](https://tpb708-programacionsig-2020.github.io/leccion-10-fiona-shapely/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
