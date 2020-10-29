@@ -41,6 +41,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [02 Python - tipos de datos, variables, condicionales, ciclos, funciones](https://tpb708-programacionsig-2020.github.io/tarea-02-python-funciones/)
 \
 [03 GDAL - utilitarios de línea de comandos](https://tpb708-programacionsig-2020.github.io/tarea-03-gdal-comandos/)
+\
+[04 GeoPandas](https://tpb708-programacionsig-2020.github.io/tarea-03-geopandas/)
 
 #### Proyectos
 [01 Python - Visualización de datos vectoriales](https://tpb708-programacionsig-2020.github.io/proyecto-01-python-datos-vectoriales-visualizacion/)
