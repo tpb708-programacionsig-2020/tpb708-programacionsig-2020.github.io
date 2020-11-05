@@ -34,6 +34,8 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [11 Fiona y Shapely](https://tpb708-programacionsig-2020.github.io/leccion-11-fiona-shapely/)
 \
 [12 GeoPandas](https://tpb708-programacionsig-2020.github.io/leccion-12-geopandas/)
+\
+[13 Jupyter Dashboards](https://tpb708-programacionsig-2020.github.io/leccion-13-jupyter-dashboards/)
 
 #### Tareas
 [01 La sintaxis Markdown](https://tpb708-programacionsig-2020.github.io/tarea-01-markdown/)
