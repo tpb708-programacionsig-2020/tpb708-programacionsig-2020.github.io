@@ -47,7 +47,7 @@ Las repositorios [GitHub](https://github.com/) que forman parte del sitio web de
 [04 GeoPandas](https://tpb708-programacionsig-2020.github.io/tarea-03-geopandas/)
 
 #### Proyectos
-[01 Python - Visualización de datos vectoriales](https://tpb708-programacionsig-2020.github.io/proyecto-01-python-datos-vectoriales-visualizacion/)
+[01 Python - Visualización de datos vectoriales](https://tpb708-programacionsig-2020.github.io/proyecto-01-python-datos-vectoriales-visualizacion/)  
 [02 Python - Visualización de tablas, gráficos y mapas](https://tpb708-programacionsig-2020.github.io/proyecto-02-python-visualizacion-tablas-graficos-mapas/)
 
 #### Tutoriales
